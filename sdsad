@@ -1,0 +1,60 @@
+* [33mcommit d1eccbac6fe17b573659ad61af307fcde6a0b6a5[m[33m ([m[1;36mHEAD -> [m[1;32mconflict[m[33m)[m
+[31m|[m Author: gomzi789 <gomzi789@gmail.com>
+[31m|[m Date:   Sat Jan 27 15:59:41 2024 +0530
+[31m|[m 
+[31m|[m     conflict 1
+[31m|[m   
+*   [33mcommit 42b2b9889493ad3e7db64a635c7d5e11914a31b7[m[33m ([m[1;32mmaster[m[33m)[m
+[32m|[m[33m\[m  Merge: bba0c87 1ce1076
+[32m|[m [33m|[m Author: gomzi789 <gomzi789@gmail.com>
+[32m|[m [33m|[m Date:   Sat Jan 27 13:14:48 2024 +0530
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge feature1
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 1ce1076449f25f5fd5081528edfefb600d863581[m[33m ([m[1;32mfeature1[m[33m)[m
+[32m|[m [33m|[m Author: gomzi789 <gomzi789@gmail.com>
+[32m|[m [33m|[m Date:   Sat Jan 27 13:11:43 2024 +0530
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     feature done
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 13464c31885436b4642eab5a86af09bede156bca[m
+[32m|[m [33m|[m Author: gomzi789 <gomzi789@gmail.com>
+[32m|[m [33m|[m Date:   Sat Jan 27 13:04:49 2024 +0530
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     feature commit 2
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit cfa4fd33a9b1cd618a052b78ea670ece863770ad[m
+[32m|[m [33m|[m Author: gomzi789 <gomzi789@gmail.com>
+[32m|[m [33m|[m Date:   Sat Jan 27 13:03:46 2024 +0530
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     feature commit 1
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit bba0c87f6a685bd01ec4fb65353988bcfe248809[m
+[33m|[m[33m/[m  Author: gomzi789 <gomzi789@gmail.com>
+[33m|[m   Date:   Sat Jan 27 13:07:38 2024 +0530
+[33m|[m   
+[33m|[m       bug fix
+[33m|[m 
+* [33mcommit 7b9a68b0540adf5b060011d794fa7999d4f1fd42[m
+[33m|[m Author: gomzi789 <gomzi789@gmail.com>
+[33m|[m Date:   Sat Jan 27 12:59:10 2024 +0530
+[33m|[m 
+[33m|[m     version3
+[33m|[m 
+* [33mcommit e34b91a7417a559a7305a101df99a0bbe415b360[m
+[33m|[m Author: gomzi789 <gomzi789@gmail.com>
+[33m|[m Date:   Sat Jan 27 12:58:53 2024 +0530
+[33m|[m 
+[33m|[m     version2
+[33m|[m 
+* [33mcommit e733a8413e03cfd1758a46578fdbf7a5f27e8119[m
+[33m|[m Author: gomzi789 <gomzi789@gmail.com>
+[33m|[m Date:   Sat Jan 27 12:58:31 2024 +0530
+[33m|[m 
+[33m|[m     version1
+[33m|[m 
+* [33mcommit de6925e1278bc0265ac0bce7ccabb40d51b1c02e[m
+  Author: gomzi789 <gomzi789@gmail.com>
+  Date:   Sat Jan 27 12:56:36 2024 +0530
+  
+      version1
